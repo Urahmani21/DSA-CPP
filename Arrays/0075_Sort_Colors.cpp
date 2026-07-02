@@ -204,3 +204,32 @@ Learning:
 This solution uses the Counting Method.
 Later compare it with the One-Pass Dutch National Flag Algorithm.
 */
+
+void sortColors(vector<int>& nums){
+// {             -------------------------------------------------
+//               low               mid                          high
+//                  0  0  0   0  low  1111111   high 222222222
+
+    int low=0;
+    int mid=0;
+    int high=nums.size()-1;
+    while(mid <= high)
+    {
+        if(nums[mid]==0)// swap mids with low
+        {
+            int temp=nums[mid];
+            nums[mid]=nums[low];
+            nums[low]=temp;
+            low++;
+            mid++;
+        }
+        else if(nums[mid] == 2)//swap with high
+        {
+            int temp=nums[mid];
+            nums[mid]=nums[high];
+            nums[high]=temp;
+            high--;
+        }
+        else mid++;
+    }
+}
