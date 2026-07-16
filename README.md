@@ -10,6 +10,7 @@ My Data Structures and Algorithms Journey
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Urahmani21/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Urahmani21/DSA-CPP/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/Urahmani21/DSA-CPP/tree/main/0561-array-partition/) | Easy |
 ## Two Pointers
@@ -25,6 +26,7 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0414-third-maximum-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Urahmani21/DSA-CPP/tree/main/0561-array-partition/) | Easy |
 ## Math
 | Problem Name | Difficulty |
