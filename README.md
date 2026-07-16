@@ -7,6 +7,7 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Urahmani21/DSA-CPP/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Urahmani21/DSA-CPP/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
@@ -21,4 +22,8 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
