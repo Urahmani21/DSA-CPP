@@ -8,6 +8,7 @@ My Data Structures and Algorithms Journey
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Urahmani21/DSA-CPP/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Urahmani21/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
@@ -18,6 +19,7 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Urahmani21/DSA-CPP/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Urahmani21/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -34,6 +36,7 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Urahmani21/DSA-CPP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
