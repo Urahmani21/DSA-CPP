@@ -11,6 +11,7 @@ My Data Structures and Algorithms Journey
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Urahmani21/DSA-CPP/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Urahmani21/DSA-CPP/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -27,10 +28,12 @@ My Data Structures and Algorithms Journey
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Urahmani21/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Urahmani21/DSA-CPP/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Urahmani21/DSA-CPP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -39,6 +42,7 @@ My Data Structures and Algorithms Journey
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Urahmani21/DSA-CPP/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -48,4 +52,12 @@ My Data Structures and Algorithms Journey
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Urahmani21/DSA-CPP/tree/main/0561-array-partition/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Urahmani21/DSA-CPP/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
