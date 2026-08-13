@@ -6,6 +6,7 @@ My Data Structures and Algorithms Journey
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Urahmani21/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Urahmani21/DSA-CPP/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/Urahmani21/DSA-CPP/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Urahmani21/DSA-CPP/tree/main/0189-rotate-array/) | Medium |
@@ -24,6 +25,7 @@ My Data Structures and Algorithms Journey
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Urahmani21/DSA-CPP/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Urahmani21/DSA-CPP/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
